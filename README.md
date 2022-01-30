@@ -9,6 +9,7 @@
   <a href="https://twitter.com/HarounQer">twitter</a> •
   <a href="https://www.facebook.com/HM123s/">facebook</a> •
   <a href="#">instagram</a> •
+  <a href="https://discord.com/users/795926735274377257">discord</a> •
   <a href="https://www.freecodecamp.org/HarounQer">freeCodeCamp</a> 
 </p>
 
