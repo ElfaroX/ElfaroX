@@ -15,7 +15,7 @@
 
 ---
 <h4 align="center" >
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Haroun Qerdachi a 19 years old junior front-end developer based on Morocco/Oujda , i'm currently learning javascript and advanced css properties.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px"> I'm Haroun Qerdachi a 19 years old junior front-end developer based on Morocco/Oujda , i'm currently learning javascript and advanced css properties.
 </h4>
 
 <br>
