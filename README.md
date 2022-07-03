@@ -15,7 +15,7 @@
 
 ---
 <h4 align="center" >
-Hi 👋! I'm Haroun Qerdachi a 19 years old junior front-end developer based on Morocco/Oujda , i'm currently learning javascript and advanced css properties.
+Hi there i'm Haroun Qerdachi a 19 years old junior front-end developer based on Morocco/Oujda , i'm currently learning javascript and advanced css properties.
 </h4>
 
 <br>
