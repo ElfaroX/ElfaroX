@@ -20,8 +20,7 @@ Hi there i'm Haroun Qerdachi a 19 years old junior front-end developer based on 
 
 <br>
 
-- See my [full about page here](#).
-- 👯 I am on [Twitter](#), [Facebook](#), and [Instagram](#).
+- See my [full about page here](http://walo.cf/).
 - 💬 Ask me about [Front-end](#) , [Morocco](#) and [My self](#)!
 - 📫 How to reach me: `by my email : haroun.qerdachi12@gmail.com`
-- 😄 Pronouns: he/him
+
