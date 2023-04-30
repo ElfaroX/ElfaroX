@@ -5,17 +5,16 @@
 ![lil Group 1](https://user-images.githubusercontent.com/77006967/151198935-a2c6cea6-1201-4165-b23a-a800cf6b4afe.png)
 
 <p align="center">
-  <a href="#">Portfolio</a> •
+  <a href="http://walo.cf/?i=1">Portfolio</a> •
   <a href="https://twitter.com/HarounQer">Twitter</a> •
   <a href="https://www.facebook.com/HarounQer/">Facebook</a> •
-  <a href="#">Instagram</a> •
   <a href="https://discord.com/users/795926735274377257">Discord</a> •
   <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> 
 </p>
 
 ---
 <h4 align="center" >
-Hi there i'm Haroun Qerdachi a 19 years old junior front-end developer based on Morocco/Oujda , i'm currently learning javascript and advanced css properties.
+Hi there i'm Haroun Qerdachi a junior front-end developer , i'm currently learning javascript and advanced css properties.
 </h4>
 
 <br>
