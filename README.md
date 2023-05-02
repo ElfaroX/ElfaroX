@@ -14,12 +14,11 @@
 
 ---
 <h4 align="center" >
-Hi there i'm Haroun Qerdachi a junior front-end developer , i'm currently learning javascript and advanced css properties.
+Hi there i'm Haroun Qerdachi a junior front-end developer , i'm currently learning Python.
 </h4>
 
 <br>
 
 - See my [full about page here](http://walo.cf/).
-- 💬 Ask me about [Front-end](#) , [Morocco](#) and [My self](#)!
-- 📫 How to reach me: `by my email : haroun.qerdachi12@gmail.com`
+- 📫 How to reach me: `by my email : #`
 
