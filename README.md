@@ -5,16 +5,18 @@
 ![lil Group 1](https://user-images.githubusercontent.com/77006967/151198935-a2c6cea6-1201-4165-b23a-a800cf6b4afe.png)
 
 <p align="center">
-  <a href="http://walo.cf/?i=1">Portfolio</a> •
+  <a href="https://www.codewars.com/users/HarounQerdachi">Codewars</a> •
+  <a href="https://www.hackerrank.com/haroun_qerdachi1">HackerRank</a> •
+  <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> •
+  <a href="https://app.datacamp.com/profile/harounqer">Datacamp</a> •
   <a href="https://twitter.com/HarounQer">Twitter</a> •
-  <a href="https://www.facebook.com/HarounQer/">Facebook</a> •
-  <a href="https://discord.com/users/795926735274377257">Discord</a> •
-  <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> 
+  
+  
 </p>
 
 ---
 <h4 align="center" >
-Hi there i'm Haroun Qerdachi a junior front-end developer , i'm currently learning Python.
+Hi there i'm Haroun Qerdachi a Web Developer and Data Scientist , i'm currently practicing Python.
 </h4>
 
 <br>
