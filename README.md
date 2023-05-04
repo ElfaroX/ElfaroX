@@ -9,8 +9,8 @@
   <a href="https://www.hackerrank.com/haroun_qerdachi1">HackerRank</a> •
   <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> •
   <a href="https://app.datacamp.com/profile/harounqer">Datacamp</a> •
-  <a href="https://twitter.com/HarounQer">Twitter</a> •
-  
+  <a href="https://twitter.com/HarounQer">Twitter</a> 
+ 
   
 </p>
 
