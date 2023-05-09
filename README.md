@@ -7,7 +7,7 @@
 - Check out my [Datacamp:](https://app.datacamp.com/profile/harounqer)!
 - Check out my [Twitter:](https://twitter.com/HarounQer)!
 
-### My profiles :
+### About me :
 - 🔭 Check out my [website:](http://walo.cf/)!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
