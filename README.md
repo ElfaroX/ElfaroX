@@ -6,7 +6,7 @@
 - Check out my [Codewars:](https://www.codewars.com/users/HarounQerdachi)!
 - Check out my [Datacamp:](https://app.datacamp.com/profile/harounqer)!
 - Check out my [Twitter:](https://twitter.com/HarounQer)!
-<br>
+
 ### My profiles :
 - 🔭 Check out my [website:](http://walo.cf/)!
 - 🌱 I’m currently learning Python
