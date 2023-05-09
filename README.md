@@ -15,7 +15,11 @@ Hi there i'm Haroun Qerdachi a Web Developer and Data Scientist , i'm currently 
 
 <br>
 
-- See my [full about page here](http://walo.cf/).
-- 📫 How to reach me: `by my email : #`
-<!-- - <img align="left" alt="HarounQerdachi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HarounQerdachi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
+- 🔭 Check out my [website:](http://walo.cf/)!
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about learn more about the field of data science and be a better programmer
+- ⚡ Fun fact: I love to read and play chess
+- 📫 How to reach me: `by my email : haroun.qerdachi12@gmail.com`
+
 ![HarounQerdachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarounQerdachi&show_icons=true)
