@@ -3,10 +3,9 @@
 <br>
 ### My profiles :
 
-- <a href="https://www.codewars.com/users/HarounQerdachi">Codewars</a> •
-- <a href="https://app.datacamp.com/profile/harounqer">Datacamp</a> •
-- <a href="https://twitter.com/HarounQer">Twitter</a> •
-- 
+- Check out my [Codewars:](https://www.codewars.com/users/HarounQerdachi)!
+- Check out my [Datacamp:](https://app.datacamp.com/profile/harounqer)!
+- Check out my [Twitter:](https://twitter.com/HarounQer)!
 <br>
 
 - 🔭 Check out my [website:](http://walo.cf/)!
