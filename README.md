@@ -2,10 +2,10 @@
 ## I'm Developer, Web Scraper and a Data Scientist!!
 
 ### My profiles :
-
-- Check out my [Codewars:](https://www.codewars.com/users/HarounQerdachi)!
-- Check out my [Datacamp:](https://app.datacamp.com/profile/harounqer)!
-- Check out my [Twitter:](https://twitter.com/HarounQer)!
+- Check out my [Kaggle:](https://www.kaggle.com/harounqer) !
+- Check out my [Codewars:](https://www.codewars.com/users/HarounQerdachi) !
+- Check out my [Datacamp:](https://app.datacamp.com/profile/harounqer) !
+- Check out my [Twitter:](https://twitter.com/HarounQer) !
 
 ### About me :
 - 🔭 Check out my [website:](http://walo.cf/)!
