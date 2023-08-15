@@ -11,7 +11,7 @@
 - 🔭 Check out my [website:](http://walo.cf/)!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about learn more about the field of data science and be a better programmer
+- 🥅 2023 Goals: Learn more about the field of data science and be a better programmer
 - ⚡ Fun fact: I love to read and play chess
 - 📫 How to reach me: `by my email : haroun.qerdachi12@gmail.com`
 
