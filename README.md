@@ -4,7 +4,6 @@
 ### My profiles :
 - Check out my [Kaggle](https://www.kaggle.com/harounqer) !
 - Check out my [Codewars](https://www.codewars.com/users/HarounQerdachi) !
-- Check out my [Datacamp](https://app.datacamp.com/profile/harounqer) !
 - Check out my [Twitter](https://twitter.com/HarounQer) !
 
 ### About me :
@@ -20,4 +19,6 @@
 
 
 <!--   <a href="https://www.hackerrank.com/haroun_qerdachi1">HackerRank</a> •
-  <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> • -->
+  <a href="https://www.freecodecamp.org/HarounQer">FreeCodeCamp</a> • 
+  - Check out my [Datacamp](https://app.datacamp.com/profile/harounqer) !
+  -->
